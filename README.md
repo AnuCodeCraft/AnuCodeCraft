@@ -5,13 +5,13 @@
 
 ## 🛠️ Let's Dive into My Toolbox:
 
--💻 Languages: JavaScript, TypeScript, Java, C, SQL, HTML, CSS
--🛡️ Frameworks: Node.js, Express, Fastify, React.js, Material-UI, Mongoose
--✅ Testing: Jest, Mocha
--🎯 Problem-Solving: Data Structures and Algorithms
--🗄️ Databases: MongoDB, MySQL
--🔧 Technologies: Git, GraphQL, Docker, Firebase, AWS, Heroku, Redis, WebSockets, WebRTC, Cron-Job, WebHooks
--🔒 Security: Encryption, Authentication, Authorization
+- 💻 **Languages**: JavaScript, TypeScript, Java, C, SQL, HTML, CSS
+- 🛡️ **Frameworks**: Node.js, Express, Fastify, React.js, Material-UI, Mongoose
+- ✅ **Testing**: Jest, Mocha
+- 🎯 **Problem-Solving**: Data Structures and Algorithms
+- 🗄️ **Databases**: MongoDB, MySQL
+- 🔧 **Technologies**: Git, GraphQL, Docker, Firebase, AWS, Heroku, Redis, WebSockets, WebRTC, Cron-Job, WebHooks
+- 🔒 **Security**: Encryption, Authentication, Authorization
 
 ## 🔗 Connect with Me:
 
