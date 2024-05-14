@@ -15,4 +15,5 @@
 
 ## 🔗 Connect with Me:
 
-Ready to embark on exciting projects or simply geek out over the latest tech trends? Let's link up on LinkedIn! I'm all about staying in the loop and fostering connections with fellow tech enthusiasts. Let's build something amazing together!
+Let's connect on LinkedIn! I'm eager to stay informed about the latest tech trends and collaborate on exciting projects with fellow enthusiasts. 
+Looking forward to building something remarkable together.
